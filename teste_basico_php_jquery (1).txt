@@ -1,0 +1,24 @@
+Documentação API
+https://documenter.getpostman.com/view/9081034/Szf9VSUq?version=latest
+Chave de Acesso: 40f721964d0f5334d1c0e7ac150613d2
+X-UID: 230
+
+Cartões de Teste:
+Cartão	Tipo de Teste	Resultado do Teste
+ 5155901222280001	Transação Autorizada	 Transação Aprovada
+ 5155901222270002	Transação Não Autorizada	 Cartão Inválido
+ 5155901222260003	Transação Não Autorizada	 Cartão Vencido
+ 5155901222250004	Transação Não Autorizada	 Estabelecimento Inválido
+ 5155901222240005	Transação Não Autorizada	 Saldo Insuficiente
+ 5155901222230006	Transação Não Autorizada	 Autorização Recusada
+ 5155901222220007	Transação Não Autorizada	 Transacao Não Processada
+ 5155901222210008	Transação Não Autorizada	 Excede o Limite de Retiradas
+ 4012001037141112	Transação Autorizada	 Transação Aprovada
+
+
+
+1) Utilizando a Documentação Acima, fazer uma integração em PHP usando apenas o metodo  Nova Transacão;
+2) Utilizando a integração desenvolvida, fazer um frontend utilizando jQuery e javascript,
+framework de css livre, transacionando cartão e retornando as respostas da API;
+3) Enviar o projeto desenvolvido para ti@startpay.com.br ou por whatsapp para 65-98113-0531
+
